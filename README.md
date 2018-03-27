@@ -4,7 +4,7 @@ https://github.com/udacity/machine-learning \
 https://github.com/janishar/mit-deep-learning-book-pdf \
 https://github.com/wepe \
 https://github.com/JustFollowUs \
-https://github.com/zotroneneis \
+<a href="https://github.com/zotroneneis">zotroneneis</a> \
 https://github.com/josephmisiti \
 https://github.com/rushter/MLAlgorithms \
 https://github.com/eriklindernoren/ML-From-Scratch \
