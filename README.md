@@ -1,4 +1,7 @@
-# machine_learning
+# Machine Learning
+# Data Science
+# Data Analysis
+
 https://github.com/hangtwenty/dive-into-machine-learning \
 https://github.com/udacity/machine-learning \
 https://github.com/janishar/mit-deep-learning-book-pdf \
