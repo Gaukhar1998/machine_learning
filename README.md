@@ -1,6 +1,4 @@
-# Machine Learning
-# Data Science
-# Data Analysis
+# Machine Learning Tutorials
 
 https://github.com/hangtwenty/dive-into-machine-learning \
 https://github.com/udacity/machine-learning \
